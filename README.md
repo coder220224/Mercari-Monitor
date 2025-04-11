@@ -23,11 +23,14 @@
 <img src="https://i.ibb.co/ZRMHdQRg/pic2.png" width="400"> <img src="https://i.ibb.co/23Vr6nHq/pic.png" width="386">
 
 ## 🔔通知樣式
-- 例行監控通知  
+- 例行監控通知
+  
    <img src="https://i.ibb.co/QFKhmXkT/pic4.png" width="300">  
-- 新商品通知  
+- 新商品通知
+  
    <img src="https://i.ibb.co/QyrzSS0/pic5.png" width="300">
-- 商品降價通知  
+- 商品降價通知
+  
    <img src="https://i.ibb.co/D2Pwz9g/pic6.png" width="300">
    
 ## 💻 系統需求
@@ -53,9 +56,9 @@
 5. 將URL貼到程式的Webhook設定欄位
 
    <img src="https://i.ibb.co/PsbwrbS1/pic3.png" width="500">  
-6. 建議將Discord伺服器靜音，以免例行監控一直跳通知，程式預設新商品跟降價會@everyone，因此不會錯過任何必要通知。  
-
-   <img src="https://i.ibb.co/tTBgtYk8/pic7.png" width="500">
+6. 建議將Discord伺服器靜音，以免例行監控一直跳通知，程式預設新商品跟降價會@everyone，因此不會錯過任何必要通知。
+   
+   <img src="https://i.ibb.co/JwjBHzzy/pic7.png"  width="500">
 ## 💰 價格方案
  🔥限時優惠:Premium版優惠月費$49(優惠價格至5/31)  
  💰原價方案:Premium版月費$99
