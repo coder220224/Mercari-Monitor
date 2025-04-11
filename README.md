@@ -43,8 +43,8 @@
 ## 🚀 快速開始
 1. [點我下載](https://github.com/coder220224/Mercari-Monitor/releases/download/v1.0.0/MercariMonitor.zip)下載最新版本的檔案
 2. 在MercariMonitor的資料夾中執行程式
-3. 輸入電子郵件（必填）
-4. 如果有Premium版授權碼，請輸入
+3. 輸入電子郵件(必填)
+4. 如果有Premium版授權碼，請輸入(不輸入將以免費版執行)
 5. 設定Discord Webhook URL
 6. 添加想要監控的關鍵字或賣家
 7. 開始監控
