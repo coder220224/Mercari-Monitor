@@ -63,7 +63,8 @@
    <img src="https://i.ibb.co/JwjBHzzy/pic7.png"  width="500">
 ## 💰 價格方案
  🔥限時優惠:Premium版優惠月費$49(優惠價格至5/31)  
- 💰原價方案:Premium版月費$99
+ 💰原價方案:Premium版月費$99  
+<img src="https://camo.githubusercontent.com/48ea71a8a836e4498a480cd99a73ebc087fb38610a3f08cdc0b9b8ed5130fd3e/68747470733a2f2f692e6962622e636f2f4a52534d716756432f50617970616c2d63687265636b6f75742d6c6f676f2e706e67" width="100">
 
  ‼️目前歐富寶審核中，暫可使用Paypal、街口支付，支付月費金額後將付款完成截圖私訊IG即可開通授權碼。
 
