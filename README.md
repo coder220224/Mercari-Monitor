@@ -1,4 +1,4 @@
-# <img src="qhg1n-1s3dv-001.ico" width="25"> Mercari Monitor
+# <img src="mercari.ico" width="25"> Mercari Monitor
 - Mercari Monitor是一款專門用於監控日本mercari商品的自動化工具。   
 - 它能夠幫助用戶即時追蹤特定關鍵字或賣家的商品上架情況，並通過Discord進行通知。
 
