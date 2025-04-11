@@ -1,8 +1,6 @@
 # <img src="qhg1n-1s3dv-001.ico" width="25"> Mercari Monitor
-
-## 📝 簡介
-Mercari Monitor是一款專門用於監控日本mercari商品的自動化工具。   
-它能夠幫助用戶即時追蹤特定關鍵字或賣家的商品上架情況，並通過Discord進行通知。
+- Mercari Monitor是一款專門用於監控日本mercari商品的自動化工具。   
+- 它能夠幫助用戶即時追蹤特定關鍵字或賣家的商品上架情況，並通過Discord進行通知。
 
 ## ✨ 功能特點
 ### ⭐ 免費版功能
@@ -69,10 +67,6 @@ A: 建議免費版使用預設的120秒，Premium版可根據需求調整，建�
 <a href="https://p.opay.tw/Ha7w9"><img src="https://payment.opay.tw/Content/themes/WebStyle201404/images/allpay.png" alt="歐富寶支付" width="203"></a> <a href="https://mkt.jkopay.com/desktop?url=https%3A%2F%2Fservice.jkopay.com%2Fr%2Ftransfer%3Fj%3DTransfer%253A902576414"><img src="https://i.ibb.co/nNTmRYsQ/logo-modified.png" alt="街口支付" width="110"></a> <a href="https://www.paypal.com/ncp/payment/2WNV2F4R55J7A"><img src="https://i.ibb.co/JRSMqgVC/Paypal-chreckout-logo.png" alt="PayPal" width="155"></a>
 
 每一分支持都對我很有幫助，謝謝！
-
-## 📜 授權說明
-本軟體為付費軟體，未經授權不得進行商業使用。
-詳細授權條款請參考[LICENSE](link-to-license)文件。
 
 ## ⚠️ 免責聲明
 本程式僅供個人使用，使用者應遵守當地法律法規。開發者不對使用本程式造成的任何損失負責。
