@@ -19,6 +19,9 @@
 - 📉 降價通知功能
 - ⛔ 黑名單功能
 
+## 🖥️ 使用者介面
+<img src="https://i.ibb.co/ZRMHdQRg/pic2.png" width="400"> <img src="https://i.ibb.co/23Vr6nHq/pic.png" width="386.5">
+
 ## 💻 系統需求
 - Windows 10/11 64位元作業系統
 - 穩定的網路連接
