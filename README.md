@@ -67,7 +67,7 @@
  
  <a href="https://www.paypal.com/webapps/billing/plans/subscribe?plan_id=P-3RK99591YB549915CM74MI7Q"><img src="https://camo.githubusercontent.com/48ea71a8a836e4498a480cd99a73ebc087fb38610a3f08cdc0b9b8ed5130fd3e/68747470733a2f2f692e6962622e636f2f4a52534d716756432f50617970616c2d63687265636b6f75742d6c6f676f2e706e67" width="152"></a> <a href="https://mkt.jkopay.com/desktop?url=https%3A%2F%2Fservice.jkopay.com%2Fr%2Ftransfer%3Fj%3DTransfer%253A902576414"><img src="https://i.ibb.co/nNTmRYsQ/logo-modified.png" alt="街口支付" width="110"></a>
 
- ‼️目前歐富寶審核中，暫可使用Paypal、街口支付，支付月費金額後將付款完成截圖私訊IG即可開通授權碼。
+ ‼️目前歐富寶審核中，暫可使用PayPal訂閱(前兩個月$49)、街口支付輸入月費價格，並將付款完成截圖私訊IG即可開通授權碼。
 
 ## 🆘 常見問題
 **Q: 為什麼我無法添加更多關鍵字？**  
