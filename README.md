@@ -25,7 +25,7 @@
 - Discord帳號（用於接收通知）
 
 ## 🚀 快速開始
-1. 從[Releases](link-to-releases)下載最新版本的檔案
+1. 從[Releases](../../releases)下載最新版本的檔案
 2. 在MercariMonitor的資料夾中執行程式
 3. 輸入電子郵件（必填）
 4. 如果有Premium版授權碼，請輸入
