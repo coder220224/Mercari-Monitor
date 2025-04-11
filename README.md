@@ -86,7 +86,7 @@ A: 建議免費版使用預設的120秒，Premium版可根據需求調整，建�
 ## 📞 支援與聯繫
 - 如有任何問題或建議，歡迎透過 [GitHub Issues](https://github.com/coder220224/Mercari-Monitor/issues) 回報。
 
-- 或著私訊我的社群帳號[摳得柴柴](https://www.threads.net/@coder22022)。
+- 或者私訊我的社群帳號[摳得柴柴](https://www.threads.net/@coder22022)。
 
 ## 💝 贊助支持
 如果你喜歡這個工具並希望支持它，可以考慮通過以下方式贊助：
