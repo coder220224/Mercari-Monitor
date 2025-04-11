@@ -92,7 +92,7 @@ A: 建議免費版使用預設的120秒，Premium版可根據需求調整，建�
 
 ## 💝 贊助支持
 如果你喜歡這個工具並希望支持它，可以考慮通過以下方式贊助：  
- <a href="https://p.opay.tw/7D07G"><img src="https://payment.opay.tw/Content/themes/WebStyle201404/images/allpay.png" alt="歐富寶支付" width="203"></a> <a href="https://mkt.jkopay.com/desktop?url=https%3A%2F%2Fservice.jkopay.com%2Fr%2Ftransfer%3Fj%3DTransfer%253A902576414"><img src="https://i.ibb.co/nNTmRYsQ/logo-modified.png" alt="街口支付" width="110"></a> <a href="https://www.paypal.com/ncp/payment/BTJ7KM74H2B7NA"><img src="https://i.ibb.co/JRSMqgVC/Paypal-chreckout-logo.png" alt="PayPal" width="152"></a>
+ <a href="https://p.opay.tw/7D07G"><img src="https://payment.opay.tw/Content/themes/WebStyle201404/images/allpay.png" alt="歐富寶支付" width="203"></a> <a href="https://mkt.jkopay.com/desktop?url=https%3A%2F%2Fservice.jkopay.com%2Fr%2Ftransfer%3Fj%3DTransfer%253A902576414"><img src="https://i.ibb.co/nNTmRYsQ/logo-modified.png" alt="街口支付" width="110"></a> <a href="https://www.paypal.com/ncp/payment/BTJ7KM74H2B7N"><img src="https://i.ibb.co/JRSMqgVC/Paypal-chreckout-logo.png" alt="PayPal" width="152"></a>
 
 每一分支持都對我很有幫助，謝謝！
 
