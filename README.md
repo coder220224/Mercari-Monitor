@@ -34,7 +34,7 @@
 7. 開始監控
 
 ## ⚙️ 設定說明
-### Discord Webhook設定
+### <image src="https://logos-world.net/wp-content/uploads/2020/12/Discord-Logo.png" width="25"> Discord Webhook設定
 1. 在Discord伺服器中建立一個文字頻道
 2. 在頻道設定中找到整合性
 3. 點擊"建立Webhook"
@@ -45,7 +45,7 @@
  🔥限時優惠:Premium版優惠月費$49(優惠價格至5/31)  
  💰原價方案:Premium版月費$99
 
- ‼️目前歐富寶審核中，暫可使用Paypal、街口支付，付款完成截圖私訊IG即可開通授權碼
+ ‼️目前歐富寶審核中，暫可使用Paypal、街口支付，支付月費金額後將付款完成截圖私訊IG即可開通授權碼。
 
 ## 🆘 常見問題
 **Q: 為什麼我無法添加更多關鍵字？**  
